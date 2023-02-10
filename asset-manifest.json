@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-commerseDummy/static/css/main.7c546923.css",
+    "main.js": "/E-commerseDummy/static/js/main.c194eeae.js",
+    "static/js/787.3368b824.chunk.js": "/E-commerseDummy/static/js/787.3368b824.chunk.js",
+    "index.html": "/E-commerseDummy/index.html",
+    "main.7c546923.css.map": "/E-commerseDummy/static/css/main.7c546923.css.map",
+    "main.c194eeae.js.map": "/E-commerseDummy/static/js/main.c194eeae.js.map",
+    "787.3368b824.chunk.js.map": "/E-commerseDummy/static/js/787.3368b824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c546923.css",
+    "static/js/main.c194eeae.js"
+  ]
+}
