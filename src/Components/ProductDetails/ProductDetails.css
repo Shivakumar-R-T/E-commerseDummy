@@ -1,0 +1,21 @@
+.productdetail-body {
+    display: flex;
+    margin-top: 60px;
+   
+  }
+  
+  .productdetail-left {
+    padding: 20px;
+    margin-right: 50px;
+  }
+  
+  .productdetail-left > img {
+    object-fit: contain;
+    width: 350px;
+    border-radius: 50%;
+  }
+  
+  .productdetail-right {
+    padding-top: 100px;
+    justify-content: center;
+  }
